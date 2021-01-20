@@ -14,3 +14,8 @@ Given an array nums. We define a running sum of an array as runningSum[i] = sum(
 
 Return the running sum of nums.
 
+Problem-day3-1491.js
+Given an array of unique integers salary where salary[i] is the salary of the employee i.
+
+Return the average salary of employees excluding the minimum and maximum salary.
+
